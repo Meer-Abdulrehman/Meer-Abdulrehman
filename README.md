@@ -52,7 +52,9 @@ I’m a Full-Stack Developer and Software Engineer passionate about solving prob
 
 | Project Name       | Description                                      | Live Link                      |
 |--------------------|--------------------------------------------------|--------------------------------|
-| Portfolio Website  | Personal portfolio using React & TailwindCSS     | [Visit](https://your-portfolio-link.com) |
+| Color Craft Panel  |🖌️Color Craft is a vibrant web-based application  | [Visit](colorcraft-new.netlify.app) |
+                      that allows users to create, customize, and manage
+                      beautiful color palettes with ease.                                               
 | E-Commerce Store   | Shopping site with Django & React                | [Visit](https://your-store-link.com)     |
 | Task Manager API   | REST API for managing user tasks (Node + Express)| [Visit](https://your-api-link.com)       |
 | Blog Platform      | Markdown blog app built in Django                | [Visit](https://your-blog-link.com)      |

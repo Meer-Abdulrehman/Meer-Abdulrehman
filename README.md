@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Abdul Rehman</h1>
-<h3 align="center">Full-Stack Developer | Software Engineer  </h3>
+<h3 align="center">Full-Stack Developer |  Software Engineer  </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+backend+systems+%F0%9F%9B%A0;Crafting+frontend+with+React+%F0%9F%96%A5%EF%B8%8F;Always+learning+and+improving+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+backend+systems+%F0%9F%9B%A0;Crafting+frontend+with+React.Js+Bootstrap+%F0%9F%96%A5%EF%B8%8F;Always+learning+and+improving+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,15 +50,14 @@ I’m a Full-Stack Developer and Software Engineer passionate about solving prob
 
 ## 📁 Projects
 
-| Project Name               | Description                                      | Live Link                                                     |
-|---------------------------|--------------------------------------------------|---------------------------------------------------------------|
-| Color Craft Panel         | 🖌️ Color Craft is a vibrant web-based application | [Visit](https://colorcraft-new.netlify.app/)                 |
-| JunkBites                 | Junk Food Restaurant                              | [Visit](https://junkybites.netlify.app/)                     |
-| Triipy Travels            | React Firebase-based project                      | [Visit](https://trippygo-travels.netlify.app/)               |
-| Trippy Go                 | Trippy Travels React.js                           | [Visit](https://trippytours-travels.netlify.app/)            |
-| Dairy To Home Milk Service| Real-Time Map Integration Full Stack Project      | [Visit](https://dairyfarmmilk-service.netlify.app/)          |
+| Project Name                | Description                                      | Live Link                                                    |
+|----------------------------|--------------------------------------------------|--------------------------------------------------------------|
+| Color Craft Panel          |🖌️Color Craft is a vibrant web-based application | [Visit](https://colorcraft-new.netlify.app/)                |
+| JunkBites                  | Junk Food Restaurant                             | [Visit](https://junkybites.netlify.app/)                    |
+| Triipy Travels             | React Firebase-based project                     | [Visit](https://trippygo-travels.netlify.app/)              |
+| Trippy Go                  | Trippy Travels React.js                          | [Visit](https://trippytours-travels.netlify.app/)           |
+| Dairy To Home Milk Service | Real-Time Map Integration Full Stack Project     | [Visit](https://dairyfarmmilk-service.netlify.app/)         |
 
----
 
 ## 📬 Contact Me
 

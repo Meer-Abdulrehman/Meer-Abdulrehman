@@ -50,15 +50,13 @@ I’m a Full-Stack Developer and Software Engineer passionate about solving prob
 
 ## 📁 Projects
 
-| Project Name       | Description                                      | Live Link                      |
-|--------------------|--------------------------------------------------|--------------------------------|
-| Color Craft Panel  |🖌️Color Craft is a vibrant web-based application  | [Visit](colorcraft-new.netlify.app) |
-                      that allows users to create, customize, and manage
-                      beautiful color palettes with ease.                                               
-| E-Commerce Store   | Shopping site with Django & React                | [Visit](https://your-store-link.com)     |
-| Task Manager API   | REST API for managing user tasks (Node + Express)| [Visit](https://your-api-link.com)       |
-| Blog Platform      | Markdown blog app built in Django                | [Visit](https://your-blog-link.com)      |
-| Chat App           | Real-time chat app using Socket.IO               | [Visit](https://your-chat-app.com)       |
+| Project Name               | Description                                      | Live Link                                                     |
+|---------------------------|--------------------------------------------------|---------------------------------------------------------------|
+| Color Craft Panel         | 🖌️ Color Craft is a vibrant web-based application | [Visit](https://colorcraft-new.netlify.app/)                 |
+| JunkBites                 | Junk Food Restaurant                              | [Visit](https://junkybites.netlify.app/)                     |
+| Triipy Travels            | React Firebase-based project                      | [Visit](https://trippygo-travels.netlify.app/)               |
+| Trippy Go                 | Trippy Travels React.js                           | [Visit](https://trippytours-travels.netlify.app/)            |
+| Dairy To Home Milk Service| Real-Time Map Integration Full Stack Project      | [Visit](https://dairyfarmmilk-service.netlify.app/)          |
 
 ---
 

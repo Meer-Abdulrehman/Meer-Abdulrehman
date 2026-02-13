@@ -27,15 +27,14 @@ I’m a Full-Stack Developer and Software Engineer passionate about solving prob
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+## 🐍 GitHub Snake Contribution
+<p align="center">
+  <img src="https://platane.github.io/snk/gh-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Meer-Abdulrehman&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="github trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Meer-Abdulrehman&theme=onedark" />
 </p>
 
 ### 🔝 Top Contributed Repo

@@ -18,28 +18,25 @@ I’m a Full-Stack Developer and Software Engineer passionate about solving prob
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meer-Abdulrehman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meer-Abdulrehman&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Meer-Abdulrehman&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Meer-Abdulrehman&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meer-Abdulrehman&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meer-Abdulrehman&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Meer-Abdulrehman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Meer-Abdulrehman/Meer-Abdulrehman/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Meer-Abdulrehman/Meer-Abdulrehman/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

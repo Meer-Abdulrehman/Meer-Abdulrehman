@@ -25,6 +25,13 @@ I’m a Full-Stack Developer and Software Engineer passionate about solving prob
 ![](https://nirzak-streak-stats.vercel.app/?user=Meer-Abdulrehman&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meer-Abdulrehman&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Meer-Abdulrehman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 

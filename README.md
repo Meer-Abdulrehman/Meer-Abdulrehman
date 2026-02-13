@@ -7,67 +7,63 @@
 
 ---
 
+## 🐍 GitHub Snake Contribution
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdulrehman1057/abdulrehman1057/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdulrehman1057&theme=onedark&column=7&margin-w=15&no-bg=true" alt="github trophies" />
+  </a>
+</p>
+
+---
+
+## 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehman1057&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Abdul Rehman's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman1057&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman1057&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🚀 Introduction
 
-I’m a Full-Stack Developer and Software Engineer passionate about solving problems and building functional, impactful solutions. Coding allows me to transform ideas into reality, and every project is an opportunity to learn and grow by creating clean, efficient code.
+I’m a **Full-Stack Developer** and **Software Engineer** passionate about solving problems and building functional, impactful solutions. Coding allows me to transform ideas into reality, and every project is an opportunity to learn and grow by creating clean, efficient code.
 
 ---
 
 ## 🧰 Tools & Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <kbd><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></kbd>
+  <kbd><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></kbd>
 </p>
 
 ---
 
 ## 📁 Projects
 
-| Project Name                | Description                                      | Live Link                                                    |
-|-----------------------------|--------------------------------------------------|--------------------------------------------------------------|
-| Color Craft Panel           |🖌️Color Craft is a vibrant web-based application | [Visit](https://colorcraft-new.netlify.app/)                |
-| JunkBites                   | Junk Food Restaurant                             | [Visit](https://junkybites.netlify.app/)                    |
-| Triipy Travels              | React Firebase-based project                     | [Visit](https://trippygo-travels.netlify.app/)              |
-| Trippy Go                   | Trippy Travels React.js                          | [Visit](https://trippytours-travels.netlify.app/)           |
-| Dairy To Home Milk Service  | Real-Time Map Integration Full Stack Project     | [Visit](https://dairyfarmmilk-service.netlify.app/)         |
-
----
-
-## 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulrehman1057&show_icons=true&hide_border=true&count_private=true&theme=dark" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman1057&hide_border=true&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/snk.svg" alt="GitHub Snake Animation" />
-</p>
+| Project Name | Description | Live Link |
+| :--- | :--- | :--- |
+| **Color Craft Panel** | 🖌️ Vibrant web-based application | [Visit](https://colorcraft-new.netlify.app/) |
+| **JunkBites** | 🍔 Junk Food Restaurant | [Visit](https://junkybites.netlify.app/) |
+| **Triipy Travels** | ✈️ React Firebase-based project | [Visit](https://trippygo-travels.netlify.app/) |
+| **Dairy To Home** | 🥛 Real-Time Map Integration Full Stack | [Visit](https://dairyfarmmilk-service.netlify.app/) |
 
 ---
 
@@ -78,4 +74,4 @@ I’m a Full-Stack Developer and Software Engineer passionate about solving prob
   <a href="https://linkedin.com/in/abdulrehman1057" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center">Thank you for visiting my profile! 🚀</p>
+<p align="center">✨ Thank you for visiting my profile! 🚀</p>

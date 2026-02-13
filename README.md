@@ -5,13 +5,34 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+backend+systems+%F0%9F%9B%A0;Crafting+frontend+with+React.Js+%26+Bootstrap+%F0%9F%96%A5%EF%B8%8F;Always+learning+and+improving+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
-
 ---
 
 ## 🚀 Introduction
 
 <p align="left">
 I’m a Full-Stack Developer and Software Engineer passionate about solving problems and building functional, impactful solutions. Coding allows me to transform ideas into reality, and every project is an opportunity to learn and grow by creating clean, efficient code.
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meer-Abdulrehman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meer-Abdulrehman&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Meer-Abdulrehman&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Meer-Abdulrehman/Meer-Abdulrehman/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -58,7 +79,6 @@ I’m a Full-Stack Developer and Software Engineer passionate about solving prob
 | Triipy Travels             | React Firebase-based project                     | [Visit](https://trippygo-travels.netlify.app/)              |
 | Trippy Go                  | Trippy Travels React.js                          | [Visit](https://trippytours-travels.netlify.app/)           |
 | Dairy To Home Milk Service | Real-Time Map Integration Full Stack Project     | [Visit](https://dairyfarmmilk-service.netlify.app/)         |
-
 
 ## 📬 Contact Me
 

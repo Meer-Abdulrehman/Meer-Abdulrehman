@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abdul Rehman</h1>
-<h3 align="center">Full-Stack Developer |  Software Engineer  </h3>
+<h3 align="center">Full-Stack Software Engineer  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+backend+systems+%F0%9F%9B%A0;Crafting+frontend+with+React.Js+%26+Bootstrap+%F0%9F%96%A5%EF%B8%8F;Always+learning+and+improving+%F0%9F%93%9A" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 ## 🚀 Introduction
 
 <p align="left">
-I’m a Full-Stack Developer and Software Engineer passionate about solving problems and building functional, impactful solutions. Coding allows me to transform ideas into reality, and every project is an opportunity to learn and grow by creating clean, efficient code.
+I’m a Full-Stack Software Engineer passionate about solving problems and building functional, impactful solutions. Coding allows me to transform ideas into reality, and every project is an opportunity to learn and grow by creating clean, efficient code.
 </p>
 
 ---
